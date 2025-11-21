@@ -1,0 +1,4 @@
+# Formato: usuario:contraseña
+# Usuarios de ejemplo (texto plano para prototipo)
+alice:password123
+bob:secret
