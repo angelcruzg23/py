@@ -1,5 +1,5 @@
 from flask import Blueprint, render_template, request, redirect, url_for, session, current_app
-from ..models.users import validate_user
+from webapp.models.users import validate_user
 
 auth_bp = Blueprint("auth", __name__)
 

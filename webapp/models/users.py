@@ -1,5 +1,5 @@
 import os
-from ..services.utils import project_root
+from webapp.services.utils import project_root
 
 
 def _users_file_path():

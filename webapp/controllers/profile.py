@@ -1,5 +1,5 @@
 from flask import Blueprint, render_template, request, redirect, url_for, session
-from ..models.profiles import load_user_data, save_user_data
+from webapp.models.profiles import load_user_data, save_user_data
 
 profile_bp = Blueprint("profile", __name__, url_prefix="/profile")
 

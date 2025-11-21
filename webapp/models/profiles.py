@@ -1,6 +1,6 @@
 import json
 import os
-from ..services.utils import ensure_profiles_dir, safe_username
+from webapp.services.utils import ensure_profiles_dir, safe_username
 
 
 def _user_profile_path(username: str) -> str:

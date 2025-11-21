@@ -8,3 +8,9 @@
 2025-11-21 17:24:06,861 INFO [webapp] Aplicación inicializada, logging habilitado en /Users/angelcruz/Documents/proyects/py/logs/app.log
 2025-11-21 17:24:14,817 INFO [webapp] Login attempt: user=bob password_length=6
 2025-11-21 17:24:14,817 INFO [webapp] Login success: user=bob
+2025-11-21 17:33:17,487 INFO [webapp] Aplicación inicializada, logging habilitado en /Users/angelcruz/Documents/proyects/py/logs/app.log
+2025-11-21 17:33:24,692 INFO [webapp] Aplicación inicializada, logging habilitado en /Users/angelcruz/Documents/proyects/py/logs/app.log
+2025-11-21 17:33:43,007 INFO [webapp] Aplicación inicializada, logging habilitado en /Users/angelcruz/Documents/proyects/py/logs/app.log
+2025-11-21 17:33:47,164 INFO [webapp] Aplicación inicializada, logging habilitado en /Users/angelcruz/Documents/proyects/py/logs/app.log
+2025-11-21 17:33:53,369 INFO [webapp] Aplicación inicializada, logging habilitado en /Users/angelcruz/Documents/proyects/py/logs/app.log
+2025-11-21 17:34:04,619 INFO [webapp] Aplicación inicializada, logging habilitado en /Users/angelcruz/Documents/proyects/py/logs/app.log
